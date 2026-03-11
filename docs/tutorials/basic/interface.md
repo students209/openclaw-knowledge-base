@@ -8,7 +8,7 @@
 
 ### Web 界面
 
-访问 http://localhost:3000 查看 Web 界面。
+启动服务后访问本地端口查看 Web 界面。
 
 ### CLI 命令
 

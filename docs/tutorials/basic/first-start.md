@@ -23,7 +23,7 @@ openclaw gateway start
 
 ## 访问界面
 
-打开浏览器访问：http://localhost:3000
+启动服务后，打开浏览器访问本地端口。
 
 ---
 

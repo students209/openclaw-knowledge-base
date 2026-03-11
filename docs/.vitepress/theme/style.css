@@ -1,0 +1,105 @@
+/* OpenClaw 知识库主题样式 */
+
+:root {
+  /* 主色调 */
+  --vp-c-brand-1: #667eea;
+  --vp-c-brand-2: #764ba2;
+  --vp-c-brand-3: #5a67d8;
+  --vp-c-brand-soft: rgba(102, 126, 234, 0.14);
+
+  /* 按钮渐变 */
+  --vp-button-brand-border: transparent;
+  --vp-button-brand-text: #fff;
+  --vp-button-brand-bg: linear-gradient(135deg, #667eea, #764ba2);
+  --vp-button-brand-hover-border: transparent;
+  --vp-button-brand-hover-text: #fff;
+  --vp-button-brand-hover-bg: linear-gradient(135deg, #5a67d8, #6b46c1);
+
+  /* 链接颜色 */
+  --vp-c-brand-1: #667eea;
+  --vp-c-brand-2: #764ba2;
+
+  /* 自定义 */
+  --home-hero-name-background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+/* 导航栏 */
+.VPNav {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(12px);
+}
+
+/* 首页 Hero */
+.VPHero .name {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* 特性卡片 */
+.VPFeature {
+  border-radius: 12px;
+  transition: all 0.3s ease;
+}
+
+.VPFeature:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px rgba(102, 126, 234, 0.15);
+}
+
+/* 侧边栏 */
+.VPSidebarItem .text {
+  font-weight: 500;
+}
+
+/* 滚动条 */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #c4c4c4;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #a8a8a8;
+}
+
+/* 代码块 */
+.vp-code-group .tabs label {
+  font-weight: 500;
+}
+
+/* 表格 */
+.vp-doc table {
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.vp-doc th {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+}
+
+/* 暗色模式 */
+.dark {
+  --vp-c-brand-1: #818cf8;
+  --vp-c-brand-2: #a78bfa;
+  --vp-c-brand-3: #7c3aed;
+  --vp-c-brand-soft: rgba(129, 140, 248, 0.14);
+}
+
+.dark .VPNav {
+  background: rgba(17, 17, 17, 0.95);
+}
+
+.dark .vp-doc th {
+  background: linear-gradient(135deg, #4c51bf 0%, #6b46c1 100%);
+}

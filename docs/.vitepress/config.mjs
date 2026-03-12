@@ -5,6 +5,9 @@ export default defineConfig({
   description: "OpenClaw 中文社区官方文档站",
   lang: 'zh-CN',
   
+  // 忽略 localhost 链接检查
+  ignoreDeadLinks: ['http://localhost:3000'],
+  
   head: [
     ['meta', { name: 'theme-color', content: '#667eea' }],
     ['meta', { name: 'og:title', content: 'OpenClaw 知识库' }],

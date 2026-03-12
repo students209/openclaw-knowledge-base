@@ -44,5 +44,4 @@ OpenClaw 入门学习视频。
 
 ## 相关资源
 
-- [基础教程](../tutorials/basic/)
-- [配置指南](../tutorials/basic/config)
+- [基础教程](../tutorials/)

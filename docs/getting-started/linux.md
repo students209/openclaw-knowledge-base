@@ -7,7 +7,7 @@
 ## 系统要求
 
 - Ubuntu 18.04+ / Debian 10+ / CentOS 7+
-- Node.js 18.x 或更高版本
+- Node.js 22.12.0 或更高版本
 
 ---
 

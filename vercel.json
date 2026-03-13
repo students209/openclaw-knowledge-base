@@ -1,4 +1,11 @@
 {
   "buildCommand": "npm run docs:build",
-  "outputDirectory": "docs/.vitepress/dist"
+  "outputDirectory": "docs/.vitepress/dist",
+  "framework": null,
+  "rewrites": [
+    {
+      "source": "/:path((?!assets/).*)",
+      "destination": "/:path.html"
+    }
+  ]
 }

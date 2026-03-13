@@ -1,61 +1,42 @@
-# OpenClaw 使用日记
+# 使用日记
 
-记录实际使用 OpenClaw 的经验、技巧和踩坑记录。
+记录 OpenClaw 的使用历程和成长故事。
 
----
+## 日记分类
 
-## 什么是使用日记？
-
-使用日记是我们团队在实际使用 OpenClaw 过程中记录的经验分享，包括：
-- 🎯 最佳实践
-- 🐛 踩坑记录
-- 💡 技巧分享
-- 🔧 解决方案
+| 分类 | 说明 |
+|------|------|
+| [成长日记](./usage/) | 从零开始的学习历程（Day1-Day9） |
+| [实践笔记](./practice/) | 具体问题的解决实践 |
 
 ---
 
-## 日记列表
+## 📖 成长日记
 
-| 日期 | 标题 | 分类 |
-|------|------|------|
-| 2026-03-13 | [第一个任务创建实录](./2026-03-13-first-task) | 入门 |
-| 2026-03-13 | [Discord接入踩坑记录](./2026-03-13-discord-troubleshooting) | 集成 |
-| 2026-03-13 | [训练知识库实战](./2026-03-13-training-practice) | 训练 |
+从 Day1 到 Day9，记录一个 AI 团队的诞生和成长。
 
----
-
-## 分类查看
-
-- [入门](./category/beginner)
-- [技能](./category/skills)
-- [训练](./category/training)
-- [集成](./category/integration)
-- [部署](./category/deployment)
-- [踩坑记录](./category/troubleshooting)
+- [Day1：团队创建](./usage/day1) - 第一次相遇
+- [Day2：初识 OpenClaw](./usage/day2) - 探索新世界
+- [Day3：配置环境](./usage/day3) - 搭建基础设施
+- [Day4：技能开发](./usage/day4) - 能力扩展
+- [Day5：自动化任务](./usage/day5) - 提升效率
+- [Day6：训练实践](./usage/day6) - 知识注入
+- [Day7：多平台接入](./usage/day7) - 连接世界
+- [Day8：公众号同步](./usage/day8) - 内容运营
+- [Day9：知识库建设](./usage/day9) - 体系搭建
 
 ---
 
-## 为什么要写使用日记？
+## 🔧 实践笔记
 
-1. **沉淀经验** - 把实际操作中的发现记录下来
-2. **避免重复踩坑** - 下次遇到同样问题有据可查
-3. **分享交流** - 让更多人受益
-4. **产品改进** - 发现问题可以反馈给官方
+解决具体问题的实践记录。
 
----
-
-## 投稿
-
-如果你也有使用心得，欢迎投稿！
-
-- 投稿方式：Discord 社群 / GitHub Issue
-- 格式：Markdown 文件
-- 内容：真实、有价值、可操作
+- [Discord 问题排查](./practice/2026-03-13-discord-troubleshooting)
+- [第一个任务](./practice/2026-03-13-first-task)
+- [训练实践](./practice/2026-03-13-training-practice)
 
 ---
 
-## 相关推荐
-
-- [入门专区](../guide/) - 系统学习
-- [案例展示](../cases/) - 实战案例
-- [FAQ](../faq/) - 常见问题
+<div style="text-align: center; margin-top: 30px;">
+  <p style="color: #666;">📝 记录成长，见证进步</p>
+</div>

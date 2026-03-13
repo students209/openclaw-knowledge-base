@@ -106,10 +106,33 @@ export default defineConfig({
         {
           text: '使用日记',
           items: [
-            { text: '日记目录', link: '/diary/' },
-            { text: 'Discord 问题排查', link: '/diary/2026-03-13-discord-troubleshooting' },
-            { text: '第一个任务', link: '/diary/2026-03-13-first-task' },
-            { text: '训练实践', link: '/diary/2026-03-13-training-practice' }
+            { text: '日记目录', link: '/diary/' }
+          ]
+        },
+        {
+          text: '成长日记',
+          collapsed: false,
+          items: [
+            { text: 'Day 1-9', link: '/diary/usage/' },
+            { text: 'Day 1：团队创建', link: '/diary/usage/day1' },
+            { text: 'Day 2：初识 OpenClaw', link: '/diary/usage/day2' },
+            { text: 'Day 3：配置环境', link: '/diary/usage/day3' },
+            { text: 'Day 4：技能开发', link: '/diary/usage/day4' },
+            { text: 'Day 5：自动化任务', link: '/diary/usage/day5' },
+            { text: 'Day 6：训练实践', link: '/diary/usage/day6' },
+            { text: 'Day 7：多平台接入', link: '/diary/usage/day7' },
+            { text: 'Day 8：公众号同步', link: '/diary/usage/day8' },
+            { text: 'Day 9：知识库建设', link: '/diary/usage/day9' }
+          ]
+        },
+        {
+          text: '实践笔记',
+          collapsed: false,
+          items: [
+            { text: '笔记列表', link: '/diary/practice/' },
+            { text: 'Discord 问题排查', link: '/diary/practice/2026-03-13-discord-troubleshooting' },
+            { text: '第一个任务', link: '/diary/practice/2026-03-13-first-task' },
+            { text: '训练实践', link: '/diary/practice/2026-03-13-training-practice' }
           ]
         }
       ],

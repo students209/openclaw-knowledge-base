@@ -5,6 +5,9 @@ export default defineConfig({
   description: "零基础学会搭建AI助手 - OpenClaw 中文社区",
   lang: 'zh-CN',
   
+  // 清洁 URL（不带 .html 后缀）
+  cleanUrls: true,
+  
   // 忽略所有死链接检查（允许构建通过）
   ignoreDeadLinks: true,
   

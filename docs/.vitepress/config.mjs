@@ -26,6 +26,7 @@ export default defineConfig({
       { text: '案例展示', link: '/cases/' },
       { text: '教程', link: '/tutorials/' },
       { text: '视频教程', link: '/videos/' },
+      { text: '资源中心', link: '/resources/' },
       { text: '服务定价', link: '/pricing/' },
       { text: '联系我们', link: '/contact/' }
     ],
@@ -101,6 +102,37 @@ export default defineConfig({
           ]
         }
       ],
+      '/diary/': [
+        {
+          text: '使用日记',
+          items: [
+            { text: '日记目录', link: '/diary/' },
+            { text: 'Discord 问题排查', link: '/diary/2026-03-13-discord-troubleshooting' },
+            { text: '第一个任务', link: '/diary/2026-03-13-first-task' },
+            { text: '训练实践', link: '/diary/2026-03-13-training-practice' }
+          ]
+        }
+      ],
+      '/operations/': [
+        {
+          text: '自运营笔记',
+          items: [
+            { text: '运营笔记', link: '/operations/' }
+          ]
+        }
+      ],
+      '/resources/': [
+        {
+          text: '资源中心',
+          items: [
+            { text: '概述', link: '/resources/' },
+            { text: '提示词模板', link: '/resources/prompts' },
+            { text: '工具推荐', link: '/resources/tools' },
+            { text: '数据集', link: '/resources/datasets' },
+            { text: '优秀教程', link: '/resources/articles/' }
+          ]
+        }
+      ],
       '/advanced/': [
         {
           text: '高级功能',
@@ -131,16 +163,6 @@ export default defineConfig({
             { text: 'Discord', link: '/channels/discord' },
             { text: 'Telegram', link: '/channels/telegram' },
             { text: '飞书', link: '/channels/feishu' }
-          ]
-        }
-      ],
-      '/resources/': [
-        {
-          text: '资源中心',
-          items: [
-            { text: '概述', link: '/resources/' },
-            { text: '提示词模板', link: '/resources/prompts' },
-            { text: '工具推荐', link: '/resources/tools' }
           ]
         }
       ],

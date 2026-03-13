@@ -25,6 +25,7 @@ export default defineConfig({
       { text: '安装指南', link: '/getting-started/' },
       { text: '案例展示', link: '/cases/' },
       { text: '教程', link: '/tutorials/' },
+      { text: '视频教程', link: '/videos/' },
       { text: '服务定价', link: '/pricing/' },
       { text: '联系我们', link: '/contact/' }
     ],

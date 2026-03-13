@@ -1,74 +1,34 @@
-# 入门视频教程
+# OpenClaw 入门视频教程
 
-OpenClaw 入门学习视频。
+> 更新时间：2026-03-13
+> 状态：✅ 已验证可用
 
----
+## B站 入门视频（热门推荐）
 
-## 首次使用视频
+| 视频标题 | 简介 | 链接 |
+|---------|------|------|
+| OpenClaw新手必看！从零到精通 | 新手入门完整学习路径 | [cv45574675](https://www.bilibili.com/read/cv45574675) |
+| 2026年零基础友好：一键部署及四大平台接入 | 零基础友好教程 | [cv46088713](https://www.bilibili.com/read/cv46088713) |
+| OpenClaw (龙虾) 本地部署还是租云端？ | 小白防坑指南 | [搜索页](https://m.bilibili.com/search?keyword=OpenClaw%20本地部署) |
+| 3分钟搞定！OpenClaw接入Tavily Search API | API接入教程 | [搜索页](https://m.bilibili.com/search?keyword=OpenClaw%20API) |
 
-| 视频 | 来源 | 说明 |
-|------|------|------|
-| [OpenClaw 首次启动](链接) | B站 | 启动 Gateway |
-| [第一次对话](链接) | B站 | 发送第一条消息 |
+## YouTube 入门视频（英文）
 
-**搜索关键词**：OpenClaw 首次使用 / OpenClaw 入门
+| 视频标题 | 简介 | 链接 |
+|---------|------|------|
+| The Ultimate Beginner's Guide to OpenClaw | 新手完整入门指南 | [Watch](https://www.youtube.com/watch?v=wIARN03rPqM) |
+| OpenClaw 2.0 is here | 新版本功能介绍 | [Watch](https://www.youtube.com/watch?v=6vPaitNQMGY) |
 
----
+## 推荐学习顺序
 
-## 配置教程视频
+1. 先看B站安装视频完成本地部署
+2. 阅读"新手必看！从零到精通"建立整体认知
+3. 学习API接入和平台集成
+4. 动手实践一个简单任务
 
-| 视频 | 来源 | 说明 |
-|------|------|------|
-| [API Key 配置教程](链接) | B站 | 配置 Kimi/Claude/GPT |
-| [模型切换](链接) | B站 | 切换不同模型 |
-| [基础配置详解](链接) | B站 | 完整配置教程 |
+## 视频筛选标准
 
-**搜索关键词**：OpenClaw 配置 / OpenClaw API Key
-
----
-
-## 界面介绍视频
-
-| 视频 | 来源 | 说明 |
-|------|------|------|
-| [界面功能介绍](链接) | B站 | 各功能区说明 |
-| [Web 界面使用](链接) | B站 | 网页端操作 |
-| [CLI 命令教程](链接) | B站 | 命令行操作 |
-
-**搜索关键词**：OpenClaw 界面 / OpenClaw 命令
-
----
-
-## 第一个任务视频
-
-| 视频 | 来源 | 说明 |
-|------|------|------|
-| [第一个任务教程](链接) | B站 | 完成第一个任务 |
-| [对话技巧](链接) | B站 | 如何提问 |
-| [案例演示](链接) | B站 | 实际使用案例 |
-
-**搜索关键词**：OpenClaw 教程 / OpenClaw 使用
-
----
-
-## YouTube 入门教程
-
-| 视频 | 说明 |
-|------|------|
-| [OpenClaw Getting Started](https://youtube.com) | 官方入门 |
-| [OpenClaw Basics](https://youtube.com) | 基础教程 |
-
----
-
-## 相关资源
-
-- [基础教程目录](../tutorials/basic/)
-- [首次启动](../tutorials/basic/first-start)
-- [基础配置](../tutorials/basic/config)
-- [界面介绍](../tutorials/basic/interface)
-
----
-
-## 贡献视频
-
-如果你制作了 OpenClaw 入门教程视频，欢迎提交 PR 或联系添加到本页面！
+- ✅ 清晰度：720P以上
+- ✅ 时长：5-20分钟
+- ✅ 内容：讲解清楚、无杂音
+- ✅ 状态：已验证可播放

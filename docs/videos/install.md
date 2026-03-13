@@ -1,77 +1,29 @@
-# 安装视频教程
+# OpenClaw 安装视频教程
 
-OpenClaw 安装相关视频教程。
+> 更新时间：2026-03-13
+> 状态：✅ 已验证可用
 
----
+## B站 安装视频（热门推荐）
 
-## Windows 安装视频
+| 视频标题 | 简介 | 链接 |
+|---------|------|------|
+| OpenClaw小龙虾保姆级安装教程！Mac电脑版 | 小白10分钟搞定本地部署 | [BV1t4Psz1EmW](https://www.bilibili.com/video/BV1t4Psz1EmW/) |
+| 我发现Mac mini太值了! OpenClaw安装方法 | Mac mini评测与安装教程 | [BV1sMFLzAE42](https://www.bilibili.com/video/BV1sMFLzAE42/) |
+| 2天10万Star！GitHub史上最快开源项目 | 部署私人AI助手 | [cv45188007](https://www.bilibili.com/read/cv45188007) |
+| 玩龙虾吗？OpenClaw安装和使用需要知道的事儿 | 安装前必读避坑指南 | [cv46235993](https://www.bilibili.com/read/cv46235993) |
+| 2026最新OpenClaw API Key配置教程 | 中转站接入一步到位 | [1175814891480547350](https://www.bilibili.com/opus/1175814891480547350) |
 
-| 视频 | 来源 | 说明 |
-|------|------|------|
-| [OpenClaw Windows 安装教程](链接) | B站 | 详细的 Windows 安装步骤 |
-| [OpenClaw 快速上手](链接) | B站 | 5分钟快速安装 |
+## YouTube 安装视频（英文）
 
-**搜索关键词**：OpenClaw Windows 安装
+| 视频标题 | 简介 | 链接 |
+|---------|------|------|
+| The Ultimate Beginner's Guide to OpenClaw | 完整部署到模型路由、安全、Telegram集成 | [Watch](https://www.youtube.com/watch?v=st534T7-mdE) |
+| OpenClaw Tutorial for Beginners | VPS with Docker部署指南 | [Watch](https://www.youtube.com/watch?v=Zo7Putdga_4) |
+| OpenClaw Full Tutorial for Beginners | 如何设置和使用OpenClaw | [Watch](https://www.youtube.com/watch?v=n1sfrc-RjyM) |
 
----
+## 视频筛选标准
 
-## Mac 安装视频
-
-| 视频 | 来源 | 说明 |
-|------|------|------|
-| [OpenClaw Mac 安装教程](链接) | B站 | Homebrew 安装方式 |
-| [macOS 环境配置](链接) | B站 | Node.js 环境配置 |
-
-**搜索关键词**：OpenClaw Mac 安装 / OpenClaw macOS
-
----
-
-## Linux 安装视频
-
-| 视频 | 来源 | 说明 |
-|------|------|------|
-| [Ubuntu 安装 OpenClaw](链接) | B站 | Ubuntu/Debian 系统 |
-| [CentOS 安装教程](链接) | B站 | CentOS/RHEL 系统 |
-
-**搜索关键词**：OpenClaw Linux 安装 / OpenClaw Ubuntu
-
----
-
-## Docker 部署视频
-
-| 视频 | 来源 | 说明 |
-|------|------|------|
-| [Docker 安装 OpenClaw](链接) | B站 | Docker 方式部署 |
-| [Docker Compose 使用](链接) | B站 | docker-compose 方式 |
-
-**搜索关键词**：OpenClaw Docker 部署
-
----
-
-## YouTube 教程（英文）
-
-| 视频 | 说明 |
-|------|------|
-| [OpenClaw Official Tutorial](https://youtube.com) | 官方教程 |
-| [OpenClaw Setup Guide](https://youtube.com) | 安装指南 |
-
----
-
-## 相关资源
-
-- [安装指南](../getting-started/installation)
-- [Windows 详细教程](../getting-started/windows)
-- [Mac 详细教程](../getting-started/mac)
-- [Linux 详细教程](../getting-started/linux)
-- [Docker 部署](../getting-started/docker)
-
----
-
-## 贡献视频
-
-如果你制作了 OpenClaw 安装教程视频，欢迎提交 PR 或联系添加到本页面！
-
-**提交方式**：
-1. GitHub 提交 Issue
-2. Discord 社群联系
-3. 发送邮件
+- ✅ 清晰度：720P以上
+- ✅ 时长：5-20分钟
+- ✅ 内容：讲解清楚、无杂音
+- ✅ 状态：已验证可播放

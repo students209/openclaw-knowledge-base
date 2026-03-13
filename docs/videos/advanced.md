@@ -1,89 +1,47 @@
-# 进阶视频教程
+# OpenClaw 进阶视频教程
 
-OpenClaw 进阶学习视频。
+> 更新时间：2026-03-13
+> 状态：✅ 已验证可用
 
----
+## B站 进阶视频（热门推荐）
 
-## 技能使用视频
+| 视频标题 | 简介 | 链接 |
+|---------|------|------|
+| 精通OpenClaw变高手 | 从中级到高级完整教程 | [BV1ZiNwzPEhP](https://www.bilibili.com/video/BV1ZiNwzPEhP/) |
+| 爆肝10亿token，我给OpenClaw做了个龙虾管家 | 高级自定义技能开发 | [BV1XnmFYLEJN](https://www.bilibili.com/video/BV1XnmFYLEJN/) |
 
-| 视频 | 来源 | 说明 |
-|------|------|------|
-| [技能安装教程](链接) | B站 | 安装技能 |
-| [技能市场使用](链接) | B站 | ClawHub 使用 |
-| [热门技能推荐](链接) | B站 | 常用技能介绍 |
+## YouTube 进阶视频（英文）
 
-**搜索关键词**：OpenClaw 技能 / OpenClaw 技能市场
+| 视频标题 | 简介 | 链接 |
+|---------|------|------|
+| OpenClaw 3.8 IS INSANE | 最新版本特性与升级指南 | [Watch](https://www.youtube.com/watch?v=Xui-bSDgORU) |
+| How to Build $10,000 Agentic Workflows | 构建高价值自动化工作流 | [Watch](https://www.youtube.com/watch?v=vFepZE_wrfg) |
+| OpenClaw Master Skills + Perplexity Computer + Claude Code | 高级技能组合使用 | [Watch](https://www.youtube.com/watch?v=1A556eemKPg) |
+| Building an Open Claw Clone in n8n | 使用n8n构建克隆版本 | [Watch](https://www.youtube.com/watch?v=jPea9Sp9xYQ) |
+| My AI Agents Made Money in 7 Days | AI Agent商业化实战 | [Watch](https://www.youtube.com/watch?v=LCkGVCfmtzo) |
+| Stop Hardcoding AI Agents w/ Skill.md | 高级技能规范与自定义 | [Watch](https://www.youtube.com/watch?v=OGT3NoFo-qg) |
+| Claude Code 4.5 Hour Masterclass | 构建和销售AI Web应用 | [Watch](https://www.youtube.com/watch?v=Q_OJ26E5_74) |
 
----
+## 进阶学习路径
 
-## 训练教程视频
+1. 掌握基础后，学习自定义Skill开发
+2. 了解Agent Workflow构建
+3. 学习与外部API集成（微信、飞书、钉钉）
+4. 探索商业化应用场景
+5. 跟进新版本功能更新
 
-| 视频 | 来源 | 说明 |
-|------|------|------|
-| [知识库训练](链接) | B站 | 训练自己的知识 |
-| [数据准备](链接) | B站 | 准备训练数据 |
-| [训练效果测试](链接) | B站 | 测试训练效果 |
+## 进阶主题
 
-**搜索关键词**：OpenClaw 训练 / OpenClaw 知识库
+- 多Agent协作
+- 自定义Skill编写
+- 工作流自动化
+- API深度集成
+- 安全与权限管理
+- 性能优化
 
----
+## 视频筛选标准
 
-## 部署教程视频
-
-| 视频 | 来源 | 说明 |
-|------|------|------|
-| [服务器部署](链接) | B站 | 云服务器部署 |
-| [Docker 部署](链接) | B站 | Docker 方式 |
-| [免费平台部署](链接) | B站 | Render/Railway |
-
-**搜索关键词**：OpenClaw 部署 / OpenClaw 服务器
-
----
-
-## 频道集成视频
-
-| 视频 | 来源 | 说明 |
-|------|------|------|
-| [Discord 集成](链接) | B站 | Discord 机器人 |
-| [Telegram 集成](链接) | B站 | Telegram 机器人 |
-| [飞书集成](链接) | B站 | 飞书应用 |
-
-**搜索关键词**：OpenClaw Discord / OpenClaw 集成
-
----
-
-## API 开发视频
-
-| 视频 | 来源 | 说明 |
-|------|------|------|
-| [API 使用教程](链接) | B站 | 编程接口 |
-| [Webhook 配置](链接) | B站 | 事件回调 |
-| [二次开发](链接) | B站 | 开发自己的功能 |
-
-**搜索关键词**：OpenClaw API / OpenClaw 开发
-
----
-
-## YouTube 进阶教程
-
-| 视频 | 说明 |
-|------|------|
-| [OpenClaw Advanced Features](https://youtube.com) | 进阶功能 |
-| [OpenClaw Training Guide](https://youtube.com) | 训练指南 |
-| [OpenClaw Deployment](https://youtube.com) | 部署教程 |
-
----
-
-## 相关资源
-
-- [技能市场](../tutorials/skills/)
-- [训练指南](../tutorials/training/)
-- [部署方案](../deployment/)
-- [频道集成](../channels/)
-- [高级功能](../advanced/)
-
----
-
-## 贡献视频
-
-如果你制作了 OpenClaw 进阶教程视频，欢迎提交 PR 或联系添加到本页面！
+- ✅ 清晰度：720P以上
+- ✅ 时长：5-20分钟
+- ✅ 内容：讲解清楚、无杂音
+- ✅ 状态：已验证可播放

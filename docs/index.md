@@ -1,114 +1,105 @@
 ---
 layout: home
+title: OpenClaw 知识库
+titleTemplate: 零基础学会搭建AI助手
 
 hero:
-  name: "OpenClaw"
-  text: "AI Agent 开发平台"
-  tagline: "轻松构建你的 AI 助手，无需深度学习经验"
+  name: OpenClaw
+  text: 零基础学会搭建AI助手
+  tagline: 7天入门，从安装到实战
   image:
-    src: /hero-image.svg
+    src: /logo.svg
     alt: OpenClaw
   actions:
     - theme: brand
       text: 快速开始
       link: /getting-started/
     - theme: alt
-      text: 安装指南
-      link: /getting-started/installation
+      text: 7天入门教程
+      link: /guide/
     - theme: alt
-      text: GitHub
-      link: https://github.com/openclaw/openclaw
+      text: 案例展示
+      link: /cases/
 
 features:
   - icon: 🚀
-    title: 快速上手
-    details: 5 分钟完成安装，无需配置复杂环境，一条命令即可启动
-  - icon: 🤖
-    title: 多模型支持
-    details: 支持 OpenAI、Claude、通义千问、Kimi 等主流 AI 模型
-  - icon: 🔌
-    title: 多渠道集成
-    details: 支持 Discord、Telegram、飞书、企业微信等主流通讯平台
-  - icon: 🛠️
-    title: 技能市场
-    details: 丰富的技能库，一键安装各种功能模块
+    title: 一键安装
+    details: 支持 Windows/Mac/Linux 多平台安装，提供 Docker 和一键脚本部署方案
+    link: /getting-started/installation
   - icon: 📚
-    title: 知识训练
-    details: 通过文档训练让 AI 学习你的专业知识
-  - icon: 🔐
+    title: 7天学习路径
+    details: 从零开始，每天1小时，7天掌握 OpenClaw 核心用法
+    link: /guide/
+  - icon: 🎯
+    title: 实战案例
+    details: 自动回复机器人、数据处理、客服助手等多种实战案例
+    link: /cases/
+  - icon: 🔌
+    title: 技能丰富
+    details: 内置 100+ 技能，支持自定义技能开发，轻松扩展 AI 能力
+    link: /tutorials/skills/
+  - icon: 🌐
+    title: 多渠道接入
+    details: 支持 Discord、Telegram、飞书、微信等多平台接入
+    link: /channels/
+  - icon: 🔒
     title: 私有部署
-    details: 支持本地、服务器、Docker 等多种部署方式，数据完全自主可控
+    details: 支持本地运行和私有服务器部署，数据完全掌控
+    link: /deployment/
 ---
 
-<style>
-:root {
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #667eea 30%, #764ba2);
-  --vp-home-hero-image-background-image: linear-gradient(-45deg, #667eea50 50%, #764ba250 50%);
-  --vp-home-hero-image-filter: blur(44px);
-}
+## 🎁 扫码领取资料
 
-.VPHero .image-bg {
-  transition: background-color 0.5s;
-}
+<div style="display: flex; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
 
-@media (min-width: 640px) {
-  :root {
-    --vp-home-hero-image-filter: blur(56px);
-  }
-}
+<div style="text-align: center; padding: 15px; background: #f5f5f5; border-radius: 10px;">
+  <img src="/wechat.svg" width="150" style="border-radius: 8px;" />
+  <p style="margin-top: 10px; font-weight: bold;">扫码添加微信</p>
+  <p style="font-size: 14px; color: #666;">备注"学习"领取安装包</p>
+</div>
 
-@media (min-width: 960px) {
-  :root {
-    --vp-home-hero-image-filter: blur(68px);
-  }
-}
-</style>
+<div style="text-align: center; padding: 15px; background: #f5f5f5; border-radius: 10px;">
+  <img src="/qun.svg" width="150" style="border-radius: 8px;" />
+  <p style="margin-top: 10px; font-weight: bold;">加入交流群</p>
+  <p style="font-size: 14px; color: #666;">免费交流，定期分享干货</p>
+</div>
 
-## 🎯 为什么选择 OpenClaw？
+<div style="text-align: center; padding: 15px; background: #f5f5f5; border-radius: 10px;">
+  <img src="/mp.svg" width="150" style="border-radius: 8px;" />
+  <p style="margin-top: 10px; font-weight: bold;">关注公众号</p>
+  <p style="font-size: 14px; color: #666;">回复"安装包"获取教程</p>
+</div>
 
-OpenClaw 是一个开源的 AI Agent 开发平台，旨在让每个人都能轻松构建自己的 AI 助手。
+</div>
 
-| 特性 | 说明 |
-|------|------|
-| 🎯 零门槛 | 无需深度学习经验，会写代码就能用 |
-| 🔧 可扩展 | 丰富的技能市场，按需安装功能模块 |
-| 🌐 多渠道 | 一套代码，多平台运行 |
-| 🔒 可控性 | 私有部署，数据安全有保障 |
-
-## 📖 文档导航
+## 📖 快速导航
 
 | 模块 | 说明 |
 |------|------|
-| [快速开始](/getting-started/) | 5 分钟入门指南 |
-| [安装指南](/getting-started/installation) | 各平台安装教程 |
-| [基础教程](/tutorials/) | 从零开始学习 |
-| [技能市场](/tutorials/skills/) | 扩展你的 AI 能力 |
-| [训练指南](/tutorials/training/) | 让 AI 学习你的知识 |
-| [部署方案](/deployment/) | 生产环境部署 |
+| [安装指南](/getting-started/) | 各系统安装教程 |
+| [基础教程](/tutorials/) | 入门使用教程 |
+| [技能市场](/tutorials/skills/) | 技能安装与开发 |
+| [训练指南](/tutorials/training/) | 训练自己的AI |
+| [部署方案](/deployment/) | 私有化部署 |
+| [常见问题](/faq/) | FAQ 解答 |
 
-## 🌟 社区资源
+## 🔥 热门案例
 
-- [GitHub 仓库](https://github.com/openclaw/openclaw) - 源码和贡献
-- [Discord 社区](https://discord.com/invite/clawd) - 交流讨论
-- [技能市场](https://clawhub.com) - 发现更多技能
-- [官方文档](https://docs.openclaw.ai) - 英文文档
+- [自动回复机器人](/cases/auto-reply) - 难度：⭐⭐ | 30分钟
+- [数据处理自动化](/cases/data-process) - 难度：⭐⭐⭐ | 1小时
+- [客服助手](/cases/customer-service) - 难度：⭐⭐⭐⭐ | 2小时
 
-## 🚀 快速开始
+## 📚 学习资源
 
-```bash
-# 安装 OpenClaw
-npm install -g openclaw
-
-# 初始化项目
-openclaw init my-agent
-
-# 启动服务
-openclaw gateway start
-```
+- 📖 [官方文档](https://docs.openclaw.ai)
+- 🛒 [技能市场](https://clawhub.com)
+- 💬 [Discord 社群](https://discord.gg/clawd)
+- 📺 [视频教程](/videos/)
 
 ---
 
-<p align="center">
-  Made with ❤️ by OpenClaw Team
-</p>
+<div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 10px; margin-top: 30px;">
+  <h3 style="margin: 0 0 10px 0;">🎯 7天入门训练营</h3>
+  <p style="margin: 0 0 15px 0;">零基础学会搭建自己的AI助手</p>
+  <a href="/guide/" style="display: inline-block; padding: 10px 30px; background: white; color: #667eea; text-decoration: none; border-radius: 5px; font-weight: bold;">立即开始学习</a>
+</div>

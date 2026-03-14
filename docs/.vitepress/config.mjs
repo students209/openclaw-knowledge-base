@@ -30,6 +30,7 @@ export default defineConfig({
       { text: '教程', link: '/tutorials/' },
       { text: '视频教程', link: '/videos/' },
       { text: '资源中心', link: '/resources/' },
+      { text: '使用日记', link: '/diary/' },
       { text: '服务定价', link: '/pricing/' },
       { text: '联系我们', link: '/contact/' }
     ],
@@ -73,7 +74,13 @@ export default defineConfig({
             { text: '客服助手', link: '/cases/customer-service' },
             { text: '内容创作助手', link: '/cases/content-creation' },
             { text: '周报生成器', link: '/cases/weekly-report' },
-            { text: '信息监控助手', link: '/cases/monitor' }
+            { text: '信息监控助手', link: '/cases/monitor' },
+            { text: 'AI写作助手', link: '/cases/ai-writer' },
+            { text: '爬虫自动化', link: '/cases/crawler' },
+            { text: '文件整理助手', link: '/cases/file-organizer' },
+            { text: '会议纪要生成', link: '/cases/meeting-notes' },
+            { text: '思维导图生成', link: '/cases/mindmap' },
+            { text: '翻译助手', link: '/cases/translator' }
           ]
         }
       ],
@@ -211,7 +218,12 @@ export default defineConfig({
             { text: '概述', link: '/videos/' },
             { text: '安装教程', link: '/videos/install' },
             { text: '基础教程', link: '/videos/basic' },
-            { text: '进阶教程', link: '/videos/advanced' }
+            { text: '进阶教程', link: '/videos/advanced' },
+            { text: '频道配置', link: '/videos/channels' },
+            { text: '部署教程', link: '/videos/deployment' },
+            { text: '项目实战', link: '/videos/projects' },
+            { text: '技能开发', link: '/videos/skills' },
+            { text: '训练教程', link: '/videos/training' }
           ]
         }
       ]

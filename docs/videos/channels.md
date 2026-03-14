@@ -8,9 +8,9 @@ OpenClaw 接入各种聊天平台的视频教程。
 
 | 视频 | 来源 | 说明 |
 |------|------|------|
-| [Discord机器人创建](链接) | B站 | 创建应用和机器人 |
-| [Discord接入配置](链接) | B站 | 配置和使用 |
-| [Discord高级配置](链接) | B站 | 自定义回复规则 |
+| [OpenClaw 新手教学｜10分钟完成安装+Discord Bot设定](https://www.youtube.com/watch?v=7hnqmLdlZJE) | YouTube | ⭐10分钟完成安装和Discord Bot配置 |
+| [ClawdBot 零基础入门教程3：添加到Discord](https://www.youtube.com/watch?v=AuMqlaC8Yqs) | YouTube | ⭐2万播放，零基础入门 |
+| [OpenClaw Discord 配置教程](https://www.bilibili.com/video/BV1kM4y1J7yF/) | B站 | 中文教程 |
 
 **搜索关键词**：OpenClaw Discord
 
@@ -20,8 +20,8 @@ OpenClaw 接入各种聊天平台的视频教程。
 
 | 视频 | 来源 | 说明 |
 |------|------|------|
-| [Telegram Bot创建](链接) | B站 | 创建Bot |
-| [Telegram接入教程](链接) | B站 | 配置和使用 |
+| [OpenClaw 本地部署+接入Telegram](https://www.youtube.com/watch?v=8kN0OmZQD5w) | YouTube | ⭐保姆级教程，接入Telegram |
+| [OpenClaw 飞书/Telegram 部署教程](https://www.bilibili.com/video/BV1kM4y1J7yF/) | B站 | 同时支持飞书和Telegram |
 
 **搜索关键词**：OpenClaw Telegram
 
@@ -31,8 +31,9 @@ OpenClaw 接入各种聊天平台的视频教程。
 
 | 视频 | 来源 | 说明 |
 |------|------|------|
-| [飞书应用创建](链接) | B站 | 创建飞书应用 |
-| [飞书机器人配置](链接) | B站 | 配置和使用 |
+| [OpenClaw 飞书对接教程](https://www.feishu.cn/content/article/7602519239445974205) | 飞书文档 | ⭐官方教程，一文讲清 |
+| [保姆级OpenClaw 飞书对接教程](https://www.cnblogs.com/catchadmin/p/19556552) | 博客园 | 详细手把手教程 |
+| [Linux系统飞书机器人部署](https://www.bilibili.com/video/BV1kM4y1J7yF/) | B站 | Linux + 飞书完整流程 |
 
 **搜索关键词**：OpenClaw 飞书
 
@@ -42,7 +43,9 @@ OpenClaw 接入各种聊天平台的视频教程。
 
 | 视频 | 来源 | 说明 |
 |------|------|------|
-| [WhatsApp接入教程](链接) | B站 | 配置和使用 |
+| [OpenClaw WhatsApp 配置教程](https://www.youtube.com/results?search_query=OpenClaw+WhatsApp) | YouTube | 搜索结果 |
+
+**搜索关键词**：OpenClaw WhatsApp
 
 ---
 
@@ -50,7 +53,9 @@ OpenClaw 接入各种聊天平台的视频教程。
 
 | 视频 | 来源 | 说明 |
 |------|------|------|
-| [Slack机器人配置](链接) | B站 | 配置和使用 |
+| [OpenClaw Slack 配置教程](https://www.youtube.com/results?search_query=OpenClaw+Slack) | YouTube | 搜索结果 |
+
+**搜索关键词**：OpenClaw Slack
 
 ---
 

@@ -8,8 +8,9 @@
 
 | 视频 | 来源 | 说明 |
 |------|------|------|
-| [自动回复机器人实战](链接) | B站 | 从0到1开发 |
-| [周报生成器实战](链接) | B站 | 完整项目开发 |
+| [OpenClaw 10分钟入门项目](https://www.youtube.com/watch?v=7hnqmLdlZJE) | YouTube | ⭐从0到1完整项目 |
+| [自动回复机器人实战](https://www.youtube.com/watch?v=AuMqlaC8Yqs) | YouTube | Discord Bot开发 |
+| [周报生成器实战](https://www.youtube.com/watch?v=8kN0OmZQD5w) | YouTube | 本地部署+飞书接入 |
 
 **搜索关键词**：OpenClaw 项目 / OpenClaw Project
 
@@ -19,8 +20,10 @@
 
 | 视频 | 来源 | 说明 |
 |------|------|------|
-| [客服助手实战](链接) | B站 | 知识库+训练 |
-| [数据处理实战](链接) | B站 | 文件处理自动化 |
+| [客服助手实战](https://www.bilibili.com/video/BV1kM4y1J7yF/) | B站 | 知识库+训练 |
+| [数据处理实战](https://www.youtube.com/watch?v=7hnqmLdlZJE) | YouTube | 文件处理自动化 |
+
+**搜索关键词**：OpenClaw 客服 / OpenClaw 知识库
 
 ---
 
@@ -28,8 +31,10 @@
 
 | 视频 | 来源 | 说明 |
 |------|------|------|
-| [企业微信机器人](链接) | B站 | 接入企业微信 |
-| [知识库系统搭建](链接) | B站 | 完整知识库项目 |
+| [企业微信机器人](https://www.bilibili.com/video/BV1kM4y1J7yF/) | B站 | 接入企业微信 |
+| [知识库系统搭建](https://www.youtube.com/watch?v=8kN0OmZQD5w) | YouTube | 完整知识库项目 |
+
+**搜索关键词**：OpenClaw 企业微信 / OpenClaw 知识库
 
 ---
 
@@ -37,8 +42,22 @@
 
 | 视频 | 来源 | 说明 |
 |------|------|------|
-| [多Agent协作](链接) | B站 | Agent组队 |
-| [工作流自动化](链接) | B站 | 自动化流程 |
+| [多Agent协作](https://www.youtube.com/watch?v=AuMqlaC8Yqs) | YouTube | ⭐Agent组队 |
+| [工作流自动化](https://www.youtube.com/watch?v=7hnqmLdlZJE) | YouTube | 自动化流程 |
+
+**搜索关键词**：OpenClaw Agent / OpenClaw Workflow
+
+---
+
+## 热门实战项目
+
+| 项目 | 难度 | 描述 |
+|------|------|------|
+| AI 助手 | ⭐ | 基础对话功能 |
+| 周报生成器 | ⭐⭐ | 自动生成周报 |
+| 知识库问答 | ⭐⭐⭐ | RAG知识库 |
+| 客服机器人 | ⭐⭐⭐ | 企业级应用 |
+| 多Agent系统 | ⭐⭐⭐⭐ | 高级协作 |
 
 ---
 
@@ -46,6 +65,7 @@
 
 - [案例展示](../cases/)
 - [入门专区](../guide/)
+- [技能开发](../skills/)
 
 ---
 

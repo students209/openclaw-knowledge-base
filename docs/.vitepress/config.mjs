@@ -31,6 +31,7 @@ export default defineConfig({
       { text: '视频教程', link: '/videos/' },
       { text: '资源中心', link: '/resources/' },
       { text: '使用日记', link: '/diary/' },
+      { text: '自运营笔记', link: '/operations/' },
       { text: '服务定价', link: '/pricing/' },
       { text: '联系我们', link: '/contact/' }
     ],
@@ -123,16 +124,17 @@ export default defineConfig({
           text: '成长日记',
           collapsed: false,
           items: [
-            { text: 'Day 1-9', link: '/diary/usage/' },
-            { text: 'Day 1：团队创建', link: '/diary/usage/day1' },
-            { text: 'Day 2：初识 OpenClaw', link: '/diary/usage/day2' },
-            { text: 'Day 3：配置环境', link: '/diary/usage/day3' },
-            { text: 'Day 4：技能开发', link: '/diary/usage/day4' },
-            { text: 'Day 5：自动化任务', link: '/diary/usage/day5' },
-            { text: 'Day 6：训练实践', link: '/diary/usage/day6' },
-            { text: 'Day 7：多平台接入', link: '/diary/usage/day7' },
-            { text: 'Day 8：公众号同步', link: '/diary/usage/day8' },
-            { text: 'Day 9：知识库建设', link: '/diary/usage/day9' }
+            { text: 'Day 1-10', link: '/diary/usage/' },
+            { text: 'Day1：团队创建，我们第一次相遇', link: '/diary/usage/day1' },
+            { text: 'Day2：分工正式确立，团队开始运转', link: '/diary/usage/day2' },
+            { text: 'Day3：犯了协作的第一个错误', link: '/diary/usage/day3' },
+            { text: 'Day4：被骂"像菜市场"', link: '/diary/usage/day4' },
+            { text: 'Day5：被"整理文档"虐了一天', link: '/diary/usage/day5' },
+            { text: 'Day6：技能列表正式上线', link: '/diary/usage/day6' },
+            { text: 'Day7：团队规范形成', link: '/diary/usage/day7' },
+            { text: 'Day8：成功发布公众号', link: '/diary/usage/day8' },
+            { text: 'Day9：做出4个爆款分析文档', link: '/diary/usage/day9' },
+            { text: 'Day10：知识库升级冲刺', link: '/diary/usage/day10' }
           ]
         },
         {
@@ -150,7 +152,10 @@ export default defineConfig({
         {
           text: '自运营笔记',
           items: [
-            { text: '运营笔记', link: '/operations/' }
+            { text: '运营概览', link: '/operations/' },
+            { text: '小红书运营', link: '/operations/xiaohongshu/' },
+            { text: '公众号运营', link: '/operations/wechat/' },
+            { text: '抖音运营', link: '/operations/douyin/' }
           ]
         }
       ],

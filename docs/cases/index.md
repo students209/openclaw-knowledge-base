@@ -66,6 +66,66 @@
   <a href="./monitor" style="display: inline-block; margin-top: 15px; color: #667eea; text-decoration: none;">查看详情 →</a>
 </div>
 
+<div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px; transition: box-shadow 0.3s;">
+  <h3 style="margin: 0 0 10px 0;">✍️ AI写作助手</h3>
+  <p style="color: #666; font-size: 14px; margin: 0 0 15px 0;">智能写作助手，自动生成文章、文案</p>
+  <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+    <span style="background: #e3f2fd; color: #1976d2; padding: 4px 10px; border-radius: 4px; font-size: 12px;">⭐⭐ 入门</span>
+    <span style="background: #f3e5f5; color: #7b1fa2; padding: 4px 10px; border-radius: 4px; font-size: 12px;">⏱ 30分钟</span>
+  </div>
+  <a href="./ai-writer" style="display: inline-block; margin-top: 15px; color: #667eea; text-decoration: none;">查看详情 →</a>
+</div>
+
+<div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px; transition: box-shadow 0.3s;">
+  <h3 style="margin: 0 0 10px 0;">🕷️ 爬虫自动化</h3>
+  <p style="color: #666; font-size: 14px; margin: 0 0 15px 0;">自动抓取网页数据，定时更新</p>
+  <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+    <span style="background: #fff3e0; color: #f57c00; padding: 4px 10px; border-radius: 4px; font-size: 12px;">⭐⭐⭐ 进阶</span>
+    <span style="background: #f3e5f5; color: #7b1fa2; padding: 4px 10px; border-radius: 4px; font-size: 12px;">⏱ 1小时</span>
+  </div>
+  <a href="./crawler" style="display: inline-block; margin-top: 15px; color: #667eea; text-decoration: none;">查看详情 →</a>
+</div>
+
+<div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px; transition: box-shadow 0.3s;">
+  <h3 style="margin: 0 0 10px 0;">📁 文件整理助手</h3>
+  <p style="color: #666; font-size: 14px; margin: 0 0 15px 0;">自动分类整理文件，保持文件夹整洁</p>
+  <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+    <span style="background: #e3f2fd; color: #1976d2; padding: 4px 10px; border-radius: 4px; font-size: 12px;">⭐⭐ 入门</span>
+    <span style="background: #f3e5f5; color: #7b1fa2; padding: 4px 10px; border-radius: 4px; font-size: 12px;">⏱ 45分钟</span>
+  </div>
+  <a href="./file-organizer" style="display: inline-block; margin-top: 15px; color: #667eea; text-decoration: none;">查看详情 →</a>
+</div>
+
+<div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px; transition: box-shadow 0.3s;">
+  <h3 style="margin: 0 0 10px 0;">📋 会议纪要生成</h3>
+  <p style="color: #666; font-size: 14px; margin: 0 0 15px 0;">自动生成会议纪要，提取关键信息</p>
+  <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+    <span style="background: #fff3e0; color: #f57c00; padding: 4px 10px; border-radius: 4px; font-size: 12px;">⭐⭐⭐ 进阶</span>
+    <span style="background: #f3e5f5; color: #7b1fa2; padding: 4px 10px; border-radius: 4px; font-size: 12px;">⏱ 1小时</span>
+  </div>
+  <a href="./meeting-notes" style="display: inline-block; margin-top: 15px; color: #667eea; text-decoration: none;">查看详情 →</a>
+</div>
+
+<div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px; transition: box-shadow 0.3s;">
+  <h3 style="margin: 0 0 10px 0;">🧠 思维导图生成</h3>
+  <p style="color: #666; font-size: 14px; margin: 0 0 15px 0;">自动生成思维导图，可视化信息</p>
+  <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+    <span style="background: #e3f2fd; color: #1976d2; padding: 4px 10px; border-radius: 4px; font-size: 12px;">⭐⭐ 入门</span>
+    <span style="background: #f3e5f5; color: #7b1fa2; padding: 4px 10px; border-radius: 4px; font-size: 12px;">⏱ 30分钟</span>
+  </div>
+  <a href="./mindmap" style="display: inline-block; margin-top: 15px; color: #667eea; text-decoration: none;">查看详情 →</a>
+</div>
+
+<div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px; transition: box-shadow 0.3s;">
+  <h3 style="margin: 0 0 10px 0;">🌐 翻译助手</h3>
+  <p style="color: #666; font-size: 14px; margin: 0 0 15px 0;">多语言翻译，支持文档批量翻译</p>
+  <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+    <span style="background: #e3f2fd; color: #1976d2; padding: 4px 10px; border-radius: 4px; font-size: 12px;">⭐⭐ 入门</span>
+    <span style="background: #f3e5f5; color: #7b1fa2; padding: 4px 10px; border-radius: 4px; font-size: 12px;">⏱ 30分钟</span>
+  </div>
+  <a href="./translator" style="display: inline-block; margin-top: 15px; color: #667eea; text-decoration: none;">查看详情 →</a>
+</div>
+
 </div>
 
 ---
